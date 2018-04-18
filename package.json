@@ -1,0 +1,22 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "music by react",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "react"
+  ],
+  "author": "liang",
+  "license": "MIT",
+  "dependencies": {
+    "pubsub-js": "^1.5.4",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "react-hot-loader": "^3.0.0-beta.2",
+    "react-router": "^2.0.0"
+  }
+}
